@@ -132,7 +132,9 @@ namespace winrt::SimplePhotos::factory_implementation
     };
 }
 ```
+
 </br>
+
 ```
 // ImageFileInfo.cpp
 #include "pch.h"
@@ -482,5 +484,5 @@ namespace winrt::SimplePhotos::implementation
 ```
 
 실행 화면
-![
+![Image description](./2.PNG)</br>
 
